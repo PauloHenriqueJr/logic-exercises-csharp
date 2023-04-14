@@ -4,15 +4,15 @@ Este repositório contém uma lista de exercícios resolvidos em C#, focados em 
 
 ## Lista de Exercícios
 
-- Exercises with Integers: exercícios com números inteiros.
-- Exercises with Nested Loops: exercícios com loops aninhados.
-- Exercises with Real Numbers: exercícios com números reais.
-- Exercises with Functions - Part I: exercícios com funções - parte I.
-- Exercises with Functions - Part II: exercícios com funções - parte II.
-- Exercises with Vectors: exercícios com vetores.
-- Exercises with Matrices: exercícios com matrizes.
-- Exercises with Functions - Part III: exercícios com funções - parte III.
-- Complementary Exercises: exercícios complementares.
+1. Exercises with Integers: exercícios com números inteiros.
+2. Exercises with Nested Loops: exercícios com loops aninhados.
+3. Exercises with Real Numbers: exercícios com números reais.
+4. Exercises with Functions - Part I: exercícios com funções - parte I.
+5. Exercises with Functions - Part II: exercícios com funções - parte II.
+6. Exercises with Vectors: exercícios com vetores.
+7. Exercises with Matrices: exercícios com matrizes.
+8. Exercises with Functions - Part III: exercícios com funções - parte III.
+9. Complementary Exercises: exercícios complementares.
 
 ## Pré-requisitos
 
