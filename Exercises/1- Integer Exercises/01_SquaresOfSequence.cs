@@ -1,5 +1,6 @@
 ﻿namespace Exercises
 {
+    // Program that reads a sequence of integers non-null and prints the square of each number read.
     public class SquaresOfSequence
     {
         public static void Solution1()
@@ -13,8 +14,8 @@
                 Console.Write("Digite um número: ");
                 num = int.Parse(Console.ReadLine());
 
-                int quadrado = num * num;
-                Console.WriteLine($"{num} ao quadrado é {quadrado}\n");
+                int square = num * num;
+                Console.WriteLine($"{num} ao quadrado é {square}\n");
             }
         }
     }
