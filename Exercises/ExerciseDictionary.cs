@@ -15,7 +15,10 @@
             {
                 (1, new[] { SquaresOfSequence.Solution1 }),
                 (2, new[] { SumOfNNumbers.Solution1, SumOfNNumbers.Solution2 }),
-                (3, new[] { OddNumbers.Solution1, OddNumbers.Solution2 })
+                (3, new[] { OddNumbers.Solution1, OddNumbers.Solution2 }),
+                (4, new[] { PowerOfX.Solution1, PowerOfX.Solution2 }),
+                (5, new[] { DailySalesMarch.Solution1, DailySalesMarch.Solution2}),
+                (6, new[] { GradeStatistics.Solution1})
             });
         }
 
