@@ -21,6 +21,10 @@
                 (6, new[] { GradeStatistics.Solution1 }),
                 (7, new[] { SumNumbersPairs.Solution1 }),
                 (8, new[] { FactorialOfN.Solution1 }),
+                (9, new[] { MultiplesOfNumbers.Solution1 }),
+                (10, new[] { TriangularNumber.Solution1 }),
+                (11, new[] { PrimeNumber.Solution1 }),
+
             });
         }
 
