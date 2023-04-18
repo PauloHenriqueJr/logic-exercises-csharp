@@ -17,8 +17,10 @@
                 (2, new[] { SumOfNNumbers.Solution1, SumOfNNumbers.Solution2 }),
                 (3, new[] { OddNumbers.Solution1, OddNumbers.Solution2 }),
                 (4, new[] { PowerOfX.Solution1, PowerOfX.Solution2 }),
-                (5, new[] { DailySalesMarch.Solution1, DailySalesMarch.Solution2}),
-                (6, new[] { GradeStatistics.Solution1})
+                (5, new[] { DailySalesMarch.Solution1, DailySalesMarch.Solution2 }),
+                (6, new[] { GradeStatistics.Solution1 }),
+                (7, new[] { SumNumbersPairs.Solution1 }),
+                (8, new[] { FactorialOfN.Solution1 }),
             });
         }
 
