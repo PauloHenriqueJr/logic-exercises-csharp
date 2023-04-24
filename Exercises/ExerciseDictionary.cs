@@ -24,6 +24,7 @@
                 (9, new[] { MultiplesOfNumbers.Solution1 }),
                 (10, new[] { TriangularNumber.Solution1 }),
                 (11, new[] { PrimeNumber.Solution1 }),
+                (12, new[] { EuclideanAlgorithm.Solution1 }),
 
             });
         }
