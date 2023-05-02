@@ -25,6 +25,7 @@
                 (10, new[] { TriangularNumber.Solution1 }),
                 (11, new[] { PrimeNumber.Solution1 }),
                 (12, new[] { EuclideanAlgorithm.Solution1 }),
+                (13, new[] { PerfectNumberSolver.Solution1 }),
 
             });
         }
